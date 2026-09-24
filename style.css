@@ -130,3 +130,4 @@ details p{margin:10px 0 0;color:var(--muted)}
 .nav a{white-space:nowrap}
 .panel .row{align-items:flex-start}
 @media (max-width:640px){.nav a[href="/"]{display:none}}
+[hidden]{display:none!important}
